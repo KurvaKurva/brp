@@ -1,0 +1,122 @@
+
+
+
+*{
+    margin:0;
+    border:0;
+    padding:0;    
+}
+
+div p img{
+    height:500px;
+    width:500px;
+}
+
+.thumb{
+      height:200px;
+    width:200px;
+}
+
+body{
+    padding:1%;
+    background-color:black;
+    
+}
+
+#container{
+   
+}
+
+header{
+    margin: 50px 0 20px 0;
+}
+
+#logo{
+    width:100%;
+    height:100%;    
+    
+}
+
+nav{
+    
+}
+#logoNavbar{
+    width:100%;
+    height:100%;
+}
+section{    
+    margin: 0 0 1% 0;   
+    
+}
+
+article{
+    
+    margin: 1% 0 0 0; 
+}
+
+article img{
+    width: 500px;
+    height: 500px;
+    margin: 0 0 1% 0;
+}
+
+main{   
+    background-color: rgba(190, 0, 0, 0.3);    
+    
+}
+
+main p{
+    color:white;
+}
+
+h1{
+    color:red;
+}
+
+h2{
+    color:white;
+}
+h3{
+    text-align: center;
+    color:yellow;
+}
+
+.tituloSlider{
+    color:white;
+}
+footer{
+    background-color:blue;
+}
+
+#myCarousel{
+    width:100%;
+    margin: 0 0 5px 0;
+}
+
+#playlist{
+    list-style: none;
+     }
+#playlist li a {
+     color:white;
+     text-decoration: none;
+}
+#playlist .current-song a{
+     color:red;
+}
+#lista{
+
+}
+#cabecera{
+    
+    border-color: green;
+}
+
+
+#divA, #divNum, #divB, #divC{
+    display:none;
+}
+
+#divBuscador{
+    background-color: crimson;
+/*    display: none;*/
+}
